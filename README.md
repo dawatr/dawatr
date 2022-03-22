@@ -4,19 +4,17 @@
 <h3 align="center">یک برنامه نویس پر شور از ایران</h3>
 
 
-<p align="right"> <a href="https://github.com/dawatr"><img src="https://github-profile-trophy.vercel.app/?username=dawatr" alt="dawatr" /></a> </p>
+<p align="Left"> <a href="https://github.com/dawatr"><img src="https://github-profile-trophy.vercel.app/?username=dawatr" alt="dawatr" /></a> </p>
 
-- 🔭 درحال حاضر روی کار میکنم [dawatr server](Https://dawatr.ir)
+- 🔭 پروژه فعلی من [dawatr server](Https://dawatr.ir)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 در حال یادگیریه **PHP**
 
 - 👯 I’m looking to collaborate on [Pocketmine Plugins](Https://www.github.com/dawatr)
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/callumrawlinson](https://www.github.com/callumrawlinson)
+- 👨‍💻 من به دنبال همکاری در [https://www.github.com/callumrawlinson](https://www.github.com/callumrawlinson) هستم.
 
-- 💬 Ask me about **PHP**
-
-- 📫 How to reach me **callumrawlinson@mail.com**
+- 📫 راه ارتباط با من دیسکورد **Dawat#9203**
 
 
 <h3 align="left">Languages and Tools:</h3>
