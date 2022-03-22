@@ -1,6 +1,8 @@
 ### سلام 👋
 ![](https://komarev.com/ghpvc/?username=dawatr&color=brightgreen) 
 [![ Discord ](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.com/invite/zR47gF45FQ)
+ <a href="https://www.youtube.com/channel/UClnm4kLZvGQAXNRz0C7PRAg"><img src="https://img.shields.io/youtube/channel/subscribers/UCl2qEi3atJzXb0JA7KD_PMg?color=orangescribe&logorColor=Yourbescribe&logorColor=Yourbescribe&logor=Yourbescribe&logor=Yourbescribe&logor=Yourbescript&logor=Yourbescript&logor=Yourbescript&logor= =flat" alt="YT Subscribe"/></a>
+  <a href="https://www.youtube.com/channel/UClnm4kLZvGQAXNRz0C7PRAg"><img src="https://img.shields.io/youtube/channel/views/UCl2qEi3atJzXb0JA7KD_PMg?color=orange&logo&logoColor=Viewtus =flat" alt="YT Views"/></a>
 
 <h3 align="center">یک برنامه نویس پر شور از ایران</h3>
 
