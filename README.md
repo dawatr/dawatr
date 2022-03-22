@@ -4,7 +4,7 @@
 <h3 align="center">یک برنامه نویس پر شور از ایران</h3>
 
 
-<p align="left"> <a href="https://github.com/dawatr"><img src="https://github-profile-trophy.vercel.app/?username=dawatr" alt="dawatr" /></a> </p>
+<p align="right"> <a href="https://github.com/dawatr"><img src="https://github-profile-trophy.vercel.app/?username=dawatr" alt="dawatr" /></a> </p>
 
 - 🔭 درحال حاضر روی کار میکنم [dawatr server](Https://dawatr.ir)
 
