@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/dawatr"><img src="https://github-profile-trophy.vercel.app/?username=dawatr" alt="dawatr" /></a> </p>
 
-- 🔭 I’m currently working on [Delta Panel](Https://delta-mc.app)
+- 🔭 I’m currently working on [dawatr server](Https://dawatr.ir)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on [Pocketmine Plugins](Https://www.github.com/callumrawlinson)
 
