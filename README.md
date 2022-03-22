@@ -1,10 +1,10 @@
-### Hi there 👋
+### سلام 👋
 ![](https://komarev.com/ghpvc/?username=dawatr&color=brightgreen)
 
 <h3 align="center">یک برنامه نویس پر شور از ایران</h3>
 
 
-<p align="left"> <a href="https://github.com/callumrawlinson"><img src="https://github-profile-trophy.vercel.app/?username=callumrawlinson" alt="callumrawlinson" /></a> </p>
+<p align="left"> <a href="https://github.com/dawatr"><img src="https://github-profile-trophy.vercel.app/?username=dawatr" alt="dawatr" /></a> </p>
 
 - 🔭 I’m currently working on [Delta Panel](Https://delta-mc.app)
 
