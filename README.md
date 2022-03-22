@@ -1,5 +1,6 @@
 ### سلام 👋
-![](https://komarev.com/ghpvc/?username=dawatr&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=dawatr&color=brightgreen) 
+[![ Discord ](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.com/invite/zR47gF45FQ)
 
 <h3 align="center">یک برنامه نویس پر شور از ایران</h3>
 
