@@ -12,13 +12,11 @@
 </p>
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawatr&show_icons=true&locale=en&layout=compact" alt="dawatr"/>
- <br/>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dawatr&show_icons=true&locale=en" alt="dawatr"/>
 </p>
 <p>
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dawatr&" alt="dawatr"/>
 </p>
-<br>
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=dawatr" alt="dawatr"/>
 </p>
