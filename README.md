@@ -7,7 +7,7 @@
 
 <h3 align="left">I know this :</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawatr&show_icons=true&locale=en&layout=compact" alt="dawatr"/></p>
 
