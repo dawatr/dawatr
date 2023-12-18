@@ -1,6 +1,6 @@
-### سلام 👋
+### Hi 👋
 ![](https://komarev.com/ghpvc/?username=dawatr&color=brightgreen) 
-[![ Discord ](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.com/invite/zR47gF45FQ)
+[![ Discord ](https://img.shields.io/badge/chat-on%20discord-7289da.svg)]([https://discord.com/invite/zR47gF45FQ](https://discord.com/users/773998762884333578))
  <a href="https://www.youtube.com/channel/UClnm4kLZvGQAXNRz0C7PRAg"><img src="https://img.shields.io/youtube/channel/subscribers/UClnm4kLZvGQAXNRz0C7PRAg?color=orangescribe&logorColor=Yourbescribe&logorColor=Yourbescribe&logor=Yourbescribe&logor=Yourbescribe&logor=Yourbescript&logor=Yourbescript&logor=Yourbescript&logor= =flat" alt="YT Subscribe"/></a>
   <a href="https://www.youtube.com/channel/UClnm4kLZvGQAXNRz0C7PRAg"><img src="https://img.shields.io/youtube/channel/views/UClnm4kLZvGQAXNRz0C7PRAg?color=orange&logo&logoColor=Viewtus =flat" alt="YT Views"/></a>
 
